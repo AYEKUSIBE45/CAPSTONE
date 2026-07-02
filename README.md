@@ -23,3 +23,8 @@ https://docs.google.com/spreadsheets/d/1nbhfp2ModgqDAPveYQG9CknRw2PYJQxbOTs3xSKO
 
 ## Dashboard Screenshot 
 <img width="984" height="554" alt="PIERCE EMPLOYEE" src="https://github.com/user-attachments/assets/45e8b453-36e3-480a-a49f-3d8c252315a8" />
+
+# REPORT ON Pierce County WA Employee Survey 
+https://drive.google.com/file/d/1gOJ6QeVEC77SyCCGSjmeUIOObafy5B7L/view?usp=sharing 
+
+
