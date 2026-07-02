@@ -13,5 +13,12 @@ https://docs.google.com/spreadsheets/d/1nbhfp2ModgqDAPveYQG9CknRw2PYJQxbOTs3xSKO
 
 ## Dashboard interactions   https://drive.google.com/file/d/1j0P1DAsc1RFE_Bs5aNc58CnLq-7RHgTe/view?usp=sharing
 
+## process
+•	Correctly typed each column (IDs and role flags as whole numbers, Response as a number, remaining fields as text)
+•	Propagated the nearest valid answer label downward into blank cells left by incomplete submissions
+•	Propagated the nearest valid numeric answer code upward into blank Response cells
+•	Collapsed the four binary Director/Manager/Supervisor/Staff columns into one readable category, defaulting to "Not Specified" when none were flagged
+•	Mapped all 11 raw question-text variants to 10 standardized codes using keyword matching.
+•	Assigned a numeric sort order to the Role field (Staff → Not Specified → Supervisor → Manager → Director) so dashboard visuals display roles in a logical hierarchy
 
-<img width="984" height="554" alt="PIERCE EMPLOYEE" src="https://github.com/user-attachments/assets/8df47952-f9db-4d85-baed-ec9566ee5fe2" />
+## Dashboard Screenshot 
